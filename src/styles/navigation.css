@@ -1,0 +1,25 @@
+
+.main ul {
+    list-style-type: none;
+}
+
+nav.main a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.3s;
+    padding-left: 5px;
+    
+}
+nav.main a:hover{
+    background-color: rgba(146, 146, 223, 0.096);
+    transform: translateX(20px);
+}
+
+nav.main a.active{
+    color:black;
+    border-left: 5px solid rgb(184, 184, 184);
+    transform: translateX(0);
+}

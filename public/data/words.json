@@ -1,0 +1,16 @@
+{
+"lesson":"animals",
+"words":
+[
+    {
+      "id":1,
+      "en": "cake",
+      "pl": "ciasto"
+    },
+    {
+      "id":2,
+      "en": "mouse",
+      "pl": "mysz"
+    }
+  ] 
+}

@@ -1,0 +1,20 @@
+.products h2{
+    font-size: 32px;
+}
+
+
+ul{
+    color:red;
+    list-style: square;
+    padding-left: 33px;
+
+}
+li{
+    margin:10px 0px;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+}
